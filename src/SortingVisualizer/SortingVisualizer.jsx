@@ -182,8 +182,8 @@ quickSort() {
         
          <div className='footer'>
             
-            <p>Made with ❤️ by Tannu Baghel</p>
-            
+{/*             <p>Made with ❤️ by Tannu Baghel</p>
+             */}
         </div>
         
       
